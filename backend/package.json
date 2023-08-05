@@ -9,9 +9,7 @@
     "client": "npm start --prefix ./client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "engines": {
-    "node": ">=NODE_JS_VERSION"
-},
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
